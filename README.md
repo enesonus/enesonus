@@ -4,7 +4,7 @@
 
 - 🌱 I’m learning Go and Observability tools
 
-- 🤔 I try to share my experience on my blog posts. You can find Kubernetes, IoT and observability articles there. Enjoy the ride!
+- 🤔 I try to share my experience on my [blog](https://github.com/enesonus/enesonus.git) posts. You can find Kubernetes, IoT and observability articles there. Enjoy the ride!
 
 ## Languages and Tools  
 
