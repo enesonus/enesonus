@@ -1,8 +1,8 @@
 # Hi It's Enes
 
-- 🔭 I’m working on Kubernetes, Cloud Native and especially Observability
+- 🔭 I’m working on Kubernetes, Cloud Native and Cloud Observability
 
-- 🌱 I’m learning Go and Observability tools
+- 🌱 I’m currently learning Go and Observability tools
 
 - 🤔 I try to share my experience on my [blog](https://github.com/enesonus/enesonus.git) posts. You can find Kubernetes, IoT and observability articles there. Enjoy the ride!
 
@@ -29,7 +29,7 @@
 ## Connect with me
 
 <div align="left">
-<a href="https://twitter.com/" target="_blank" style="display: none">
+<a href="https://twitter.com/enesonus" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:me@enesonus.com" target="_blank" >
