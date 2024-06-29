@@ -1,10 +1,10 @@
 # Hi It's Enes
 
-- 🔭 I’m working on Kubernetes, Cloud Native and Cloud Observability
+- 🔭 I’m working on Cloud Native and Cloud Observability Tools such as Crossplane, OpenTelemetry, Jaeger etc.
+  
+- 🌱 I’m currently learning Go.
 
-- 🌱 I’m currently learning Go and Observability tools
-
-- ⏳ I previously worked with Django, Flutter, Spring Boot and Jaeger
+- ⏳ I previously worked with languages like Go, Python, Java, Dart and with frameworks Django, Spring Boot, Flutter.
 
 <!--- - 🤔 I try to share my experience on my [blog](https://github.com/enesonus/enesonus.git) posts. You can find Kubernetes, IoT and observability articles there. Enjoy the ride! --->
 
@@ -30,7 +30,7 @@
 ## Connect with me
 
 <div align="left">
-<a href="mailto:me@enesonus.com" target="_blank" >
+<a href="mailto:menes.onus@gmail.com" target="_blank" >
 <img src=https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/enesonus" target="_blank">
