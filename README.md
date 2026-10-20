@@ -1,10 +1,6 @@
 # Hi It's Enes
 
-- 🔭 I’m working on Cloud Native and Cloud Observability Tools such as Crossplane, OpenTelemetry, Jaeger etc.
-  
-- 🌱 I’m currently learning Go.
-
-- ⏳ I previously worked with languages like Go, Python, Java, Dart and with frameworks Django, Spring Boot, Flutter.
+A Software Enthusiast working on Cloud Infra
 
 <!--- - 🤔 I try to share my experience on my [blog](https://github.com/enesonus/enesonus.git) posts. You can find Kubernetes, IoT and observability articles there. Enjoy the ride! --->
 
